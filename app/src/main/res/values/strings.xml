@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EnrichAI Tracking</string>
+    <string name="menu_clear">Clear</string>
+    <string name="settings_status_title">Service status</string>
+    <string name="settings_status_off">Start</string>
+    <string name="settings_status_on">Stop</string>
+    <string name="settings_status_off_summary">Service stopped</string>
+    <string name="settings_status_on_summary">Service running</string>
+    <string name="settings_id_title">Device identifier</string>
+    <string name="settings_interval_title">Frequency</string>
+    <string name="settings_interval_summary">Reporting interval in seconds</string>
+    <string name="settings_distance_title">Distance</string>
+    <string name="settings_distance_summary">Reporting distance in meters</string>
+    <string name="settings_angle_title">Angle</string>
+    <string name="settings_angle_summary">Reporting angle in degrees</string>
+    <string name="settings_accuracy_title">Location accuracy</string>
+    <string name="settings_accuracy_summary">Desired location accuracy</string>
+    <string name="settings_accuracy_high">High</string>
+    <string name="settings_accuracy_medium">Medium</string>
+    <string name="settings_accuracy_low">Low</string>
+    <string name="settings_url_title">Server URL</string>
+    <string name="settings_url_summary">Tracking server URL</string>
+    <string name="settings_url_default_value" translatable="false">http://192.168.43.122:8080/</string>
+    <string name="base_url" translatable="false">http://192.168.43.122:8080/</string>
+    <string name="status_service_create">Service started</string>
+    <string name="status_service_destroy">Service stopped</string>
+    <string name="status_network_online">Network online</string>
+    <string name="status_network_offline">Network offline</string>
+    <string name="status_location_update">Location update</string>
+    <string name="trip_adapter_map_it">Map it</string>
+    <string name="access_token" translatable="false">pk.eyJ1Ijoic2FuZ2t2OTciLCJhIjoiY2podnFqaTJuMHl1dDNxbjBnNTNnN3FoeSJ9.M_05fuByW8Texgts1Ji3bA</string>
+
+</resources>
